@@ -76,7 +76,3 @@ El objetivo de este proyecto es analizar los factores que influyen en la evasió
    - Observa los gráficos y lee los insights y recomendaciones al final del notebook.
 
 ---
-
-## 📬 Contacto
-
-Para dudas o sugerencias, puedes contactar al autor del proyecto. 
