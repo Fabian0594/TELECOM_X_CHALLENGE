@@ -8,9 +8,9 @@ El objetivo de este proyecto es analizar los factores que influyen en la evasió
 
 ## 📁 Estructura del Proyecto
 
-- **Telecom_X2 (1).ipynb**: Notebook principal con todo el análisis, visualizaciones y conclusiones.
+- **telecom_challenge.ipynb**: Notebook principal con todo el análisis, visualizaciones y conclusiones.
 - **telecom_x.py**: Script Python con lógica similar al notebook, útil para automatizar el análisis o reutilizar funciones.
-- **Otros archivos**: Hay otros notebooks y documentos en la carpeta, pero el análisis principal está en `Telecom_X2 (1).ipynb`.
+- **Otros archivos**: Hay otros notebooks y documentos en la carpeta, pero el análisis principal está en `telecom_challenge.ipynb`.
 
 ---
 
@@ -41,7 +41,7 @@ El objetivo de este proyecto es analizar los factores que influyen en la evasió
      ```
 
 2. **Abrir el notebook**:
-   - Puedes abrir `Telecom_X2 (1).ipynb` con Jupyter Notebook, JupyterLab, Google Colab o VSCode.
+   - Puedes abrir `telecom_challenge.ipynb` con Jupyter Notebook, JupyterLab, Google Colab o VSCode.
 
 3. **Ejecutar las celdas**:
    - Ejecuta cada celda en orden. El notebook descarga automáticamente los datos desde GitHub y realiza todo el análisis paso a paso.
